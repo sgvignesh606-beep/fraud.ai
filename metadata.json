@@ -1,0 +1,5 @@
+{
+  "name": "FraudShield AI",
+  "description": "Real-time financial fraud detection system using behavioral analysis, device fingerprinting, and AI-driven risk scoring.",
+  "requestFramePermissions": []
+}
